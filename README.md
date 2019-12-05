@@ -6,7 +6,7 @@
 ![A sample grid for a robot to navigate](https://github.com/praveenbandaru/grid-navigation/blob/master/images/sample-grid.png)
 
 <pre>
-Code Output:
+Code Input:
     [[1, 1, 1, 0, 0, 0],
      [1, 1, 1, 0, 1, 0],
      [0, 0, 0, 0, 0, 0],
@@ -19,7 +19,7 @@ Code Output:
 ![Shortest Path](https://github.com/praveenbandaru/grid-navigation/blob/master/images/left-only-grid.png)
 
 <pre>
-Code Input:
+Code Output:
     [[' ', ' ', ' ', ' ', ' ', ' '],
      [' ', ' ', ' ', ' ', ' ', ' '],
      ['*', '#', '#', 'L', ' ', ' '],
