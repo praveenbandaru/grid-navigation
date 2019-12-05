@@ -1,6 +1,18 @@
 # grid-navigation
 2D Grid Navigation for Robots
 
+### Sample 2D Grid
+
+![A sample grid for a robot to navigate](https://github.com/praveenbandaru/grid-navigation/blob/master/images/sample-grid.png)
+
+### Sample 2D Grid
+
+![Shortest Path](https://github.com/praveenbandaru/grid-navigation/blob/master/images/left-only-grid.png)
+
+### Sample 2D Grid
+
+![Favoring Right Turns](https://github.com/praveenbandaru/grid-navigation/blob/master/images/right-only-grid.png)
+
 ## Usage:
 
 <pre>
