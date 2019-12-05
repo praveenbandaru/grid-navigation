@@ -28,18 +28,23 @@ direction = 0: up
             1: left
             2: down
             3: right
+
+Ex: [4, 3, 0]
 </pre>
 ### goal: 
 <pre>
 (Point) representing the goal.
 Given in the form [row,col]
+
+Ex: [2, 0]
 </pre>
 ### cost: 
 <pre>
 (1D) representing the cost associated with moving from a cell to an adjacent one
 Given in the form [right,straight,left]
 cost has 3 values, corresponding to making 
-a right turn, no turn, and a left turn		
+a right turn, no turn, and a left turn	
+Ex: [2, 1, 20]
 </pre>		
 ### forward:
 <pre>
